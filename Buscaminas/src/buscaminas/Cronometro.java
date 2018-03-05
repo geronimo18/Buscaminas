@@ -10,5 +10,5 @@ package buscaminas;
  * @author Estudiantes
  */
 class Cronometro {
-    
+
 }

@@ -1,10 +1,10 @@
 package buscaminas;
 
 public class Celda {
-    
+
     private boolean estado;
-    private Corazon miCorazon=new Corazon();
-    private Bandera miBandera=new Bandera();
+    private Corazon miCorazon = new Corazon();
+    private Bandera miBandera = new Bandera();
     private int corazonesalrederor;
 
     public boolean isEstado() {
@@ -38,6 +38,5 @@ public class Celda {
     public void setCorazonesalrederor(int corazonesalrederor) {
         this.corazonesalrederor = corazonesalrederor;
     }
-    
-    
+
 }
