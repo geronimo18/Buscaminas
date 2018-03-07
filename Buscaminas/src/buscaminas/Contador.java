@@ -1,5 +1,3 @@
 package buscaminas;
-
 class Contador {
-
 }
